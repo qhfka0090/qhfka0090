@@ -1,5 +1,7 @@
-## Hi there 👋
-
+<!-- header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=200&section=header&text=Welcome+to+Boram's+Github!👋&fontSize=40" />
+</p>
 <!--
 **qhfka0090/qhfka0090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
