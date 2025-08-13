@@ -4,7 +4,7 @@
 </p>
 
 <!-- main content -->
-<h3 align="center"> Me </h3>
+<h3> Me </h3>
 
 
 <h3>🛠 Tech Stack 🛠</h3>
