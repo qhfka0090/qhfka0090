@@ -39,6 +39,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qhfka0090&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=qhfka0090)](https://solved.ac/qhfka0090)
 <!--
 **qhfka0090/qhfka0090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
