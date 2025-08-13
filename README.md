@@ -7,7 +7,7 @@
 <h3> Me </h3>
 <p>
   <a href="https://www.instagram.com/ra_ming._/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
-  <a href="mailto:white1322@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=white1322@gmail.com"/></a>
+  <a href="mailto:white1322@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=white1322@gmail.com"/></a>&nbsp
     <a href="https://boooram.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
 </p>
 
