@@ -25,7 +25,7 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qhfka0090&layout=compact&theme=algolia) -->
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qhfka0090)](https://github.com/anuraghazra/github-readme-stats)
+[![Boram's GitHub stats](https://github-readme-stats.vercel.app/api?username=qhfka0090)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 <!--
