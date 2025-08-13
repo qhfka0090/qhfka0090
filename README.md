@@ -33,12 +33,9 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>&nbsp
   </p>
 </p>
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qhfka0090&layout=compact&theme=algolia) -->
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qhfka0090&layout=compact&hide=csharp)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qhfka0090&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
--->
+
+
 
 ![qhfka0090's github stats](https://github-readme-stats.vercel.app/api?username=qhfka0090&show_icons=true)
 [![qhfka0090's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=qhfka0090&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/qhfka0090)
