@@ -24,8 +24,7 @@
 </p>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qhfka0090&layout=compact&theme=algolia) -->
 
-
-[![Boram's GitHub stats](https://github-readme-stats.vercel.app/api?username=qhfka0090)](https://github.com/anuraghazra/github-readme-stats) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qhfka0090&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
