@@ -5,7 +5,7 @@
 
 
 <!-- main content -->
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qhfka0090&show_icons=true&theme=vue)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **qhfka0090/qhfka0090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
